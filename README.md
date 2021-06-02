@@ -12,17 +12,4 @@ It is of limited use for people outside the respective university.
    * [`latex`](latex): A LaTeX template for theses
    * [`word`](word): A template for theses for Microsoft Word in docx format
 
-The [LaTeX-Version](latex) is the best-maintained template. Others may lag behind.
-
-### Zweck
-
-Dieses Repository enthält Vorlagen für Bachelor- und Master-Arbeiten, sowohl für LaTeX als auch für Word. Sie richten sich an Studierende der Fachbereichs Informatik und Ingenieurwissenschaften an der Frankfurt University of Applied Sciences (FRA-UAS). Das Repository enthält eine Latex- und eine Word-Vorlage. Die Latex-Vorlage unterstützt Deutsch (de) und Englisch (en). Das Template ist so gestaltet, dass auch andere Studiengänge die Vorlage benutzen können.
-
-Für Personen außerhalb der Hochschule ist die Vorlage möglicherweise nur von begrenztem Wert.
-
-### Struktur des Repositories
-
-  * [`latex`](latex): Ein LaTeX-Template für Abschlussarbeiten 
-  * [`word`](word): Eine Vorlage für Abschlussarbeiten für Microsoft Word im docx-Format
-
-Die [LaTeX-Version](latex) ist die am besten gepflegte Vorlage. Die anderen hinken immer etwas hinterher.
+The [LaTeX-Version](latex) is the best-maintained template. Others may lag behind. 
