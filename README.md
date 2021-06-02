@@ -12,7 +12,7 @@ It is of limited use for people outside the respective university.
    * [`latex`] (latex): A LaTeX template for theses
    * [`word`] (word): A template for theses for Microsoft Word in docx format
 
-The [LaTeX version] (latex) is the best-maintained template. The others always lag a little behind.
+The [LaTeX-Version](latex) is the best-maintained template. Others may lag behind.
 
 ### Zweck
 
