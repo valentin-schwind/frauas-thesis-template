@@ -1,0 +1,1821 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.10)  30 MAY 2021 17:40
+entering extended mode
+**./Thesis.tex
+(Thesis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrbook.cls
+Document Class: scrbook 2021/03/17 v3.33 KOMA-Script document class (book)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+)))
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+Skipping: [2021/05/01] Usage of raw option list on input line 252.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
+337.
+))
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\tocbasic.sty
+Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box47
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2454.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrsize11pt.clo
+File: scrsize11pt.clo 2021/03/17 v3.33 KOMA-Script font size class option (11pt
+)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\typearea.sty
+Package: typearea 2021/03/17 v3.33 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count179
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 7
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 341.4331pt
+(typearea)              DIV departure   = 5%
+(typearea)              \evensidemargin = 98.44656pt
+(typearea)              \oddsidemargin  = 13.08829pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 446.2002pt
+(typearea)              \topmargin      = 48.45099pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1741.
+)
+\c@part=\count180
+\c@chapter=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5676.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5687.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5687.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5696.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5706.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5706.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5716.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5716.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5727.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5727.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5737.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5737.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box48
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6980.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count187
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 7001.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count188
+Class scrbook Info: Redefining `\numberline' on input line 7174.
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlayer-scrpage.st
+y
+Package: scrlayer-scrpage 2021/03/17 v3.33 KOMA-Script package (end user interf
+ace for scrlayer)
+ (C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlayer.sty
+Package: scrlayer 2021/03/17 v3.33 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+(C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip64
+\enit@outerparindent=\dimen141
+\enit@toks=\toks18
+\enit@inbox=\box49
+\enit@count@id=\count189
+\enitdp@description=\count190
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/03/03 3.55 The Babel package
+
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/03/03 3.55 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen142
+\l@babelnohyphens=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count193
+)
+\csq@reset=\count194
+\csq@gtype=\count195
+\csq@glevel=\count196
+\csq@qlevel=\count197
+\csq@maxlvl=\count198
+\csq@tshold=\count199
+\csq@ltx@everypar=\toks19
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'german' -> 'german/quotes'.
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count268
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count269
+
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen144
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count270
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.s
+ty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip65
+) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen147
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count281
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip17
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks21
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks22
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks23
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks25
+\float@box=\box52
+\@float@everytoks=\toks26
+\@floatcapt=\box53
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count289
+\@cmidlb=\count290
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count291
+\@lastruleclass=\count292
+\@thisrulewidth=\dimen168
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/acronym\acronym.sty
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count293
+\decimalpart=\count294
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+\AC@clearlist=\toks27
+)
+(C:\Program Files\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count295
+\lst@gtempboxa=\box54
+\lst@token=\toks28
+\lst@length=\count296
+\lst@currlwidth=\dimen169
+\lst@column=\count297
+\lst@pos=\count298
+\lst@lostspace=\dimen170
+\lst@width=\dimen171
+\lst@newlines=\count299
+\lst@lineno=\count300
+\lst@maxwidth=\dimen172
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count301
+\lst@skipnumbers=\count302
+\lst@framebox=\box55
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/listingsutf8\listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+))
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen173
+\captionmargin@=\dimen174
+\captionwidth=\dimen175
+\caption@tempdima=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+Package caption Info: KOMA-Script document class detected.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/caption\caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count303
+\c@continuedfloat=\count304
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box56
+\TP@holdbox=\box57
+\TPHorizModule=\dimen180
+\TPVertModule=\dimen181
+\TP@margin=\dimen182
+\TP@absmargin=\dimen183
+Grid set 16 x 16 = 37.34424pt x 52.81543pt
+\TPboxrulesize=\dimen184
+\TP@ox=\dimen185
+\TP@oy=\dimen186
+\TP@tbargs=\toks29
+TextBlockOrigin set to 0pt x 0pt
+) (C:\Program Files\MiKTeX\tex/latex/latex-tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count305
+\calc@Bcount=\count306
+\calc@Adimen=\dimen187
+\calc@Bdimen=\dimen188
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count307
+\calc@Cskip=\skip71
+)
+(C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count308
+\c@Blindtext=\count309
+\c@blind@countparstart=\count310
+\blind@countxx=\count311
+\blindtext@numBlindtext=\count312
+\blind@countyy=\count313
+\c@blindlist=\count314
+\c@blindlistlevel=\count315
+\c@blindlist@level=\count316
+\blind@listitem=\count317
+\c@blind@listcount=\count318
+\c@blind@levelcount=\count319
+\blind@mathformula=\count320
+\blind@Mathformula=\count321
+\c@blind@randomcount=\count322
+\c@blind@randommax=\count323
+\c@blind@pangramcount=\count324
+\c@blind@pangrammax=\count325
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count326
+\Gm@cntv=\count327
+\c@Gm@tempcnt=\count328
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks30
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrhack.sty
+Package: scrhack 2021/03/17 v3.33 KOMA-Script package (hacking other packages)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count329
+\l__pdf_internal_box=\box58
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex)))
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 162.
+Package scrhack Info: loading float hack on input line 169.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\float.hak
+File: float.hak 2021/03/17 v3.33 KOMA-Script scrhack part (hacking package floa
+t)
+Package scrhack Info: redefining \newfloat on input line 163.
+Package scrhack Info: redefining \listof on input line 163.
+Package scrhack Info: undefining \float@addtolists on input line 163.
+)
+Package scrhack Info: loading listings hack on input line 183.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\listings.hak
+File: listings.hak 2021/03/17 v3.33 KOMA-Script scrhack part (hacking package l
+istings)
+Package tocbasic Info: setting babel extension for `lol' on input line 143.
+Package scrhack Info: redefining \lstlistoflistings on input line 143.
+)
+Package scrhack Info: loading setspace hack on input line 197.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/koma-script\setspace.hak
+File: setspace.hak 2021/03/17 v3.33 KOMA-Script scrhack part (hacking package s
+etspace)
+))
+(C:\Program Files\MiKTeX\tex/latex/oberdiek\hypcap.sty
+Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen197
+\ar@mcellbox=\box59
+\extrarowheight=\dimen198
+\NC@list=\toks31
+\extratabsurround=\skip72
+\backup@length=\skip73
+\ar@cellbox=\box60
+)
+\TX@col@width=\dimen199
+\TX@old@table=\dimen256
+\TX@old@col=\dimen257
+\TX@target=\dimen258
+\TX@delta=\dimen259
+\TX@cols=\count330
+\TX@ftn=\toks32
+)
+(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count331
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count332
+\c@listtotal=\count333
+\c@listcount=\count334
+\c@liststart=\count335
+\c@liststop=\count336
+\c@citecount=\count337
+\c@citetotal=\count338
+\c@multicitecount=\count339
+\c@multicitetotal=\count340
+\c@instcount=\count341
+\c@maxnames=\count342
+\c@minnames=\count343
+\c@maxitems=\count344
+\c@minitems=\count345
+\c@citecounter=\count346
+\c@maxcitecounter=\count347
+\c@savedcitecounter=\count348
+\c@uniquelist=\count349
+\c@uniquename=\count350
+\c@refsection=\count351
+\c@refsegment=\count352
+\c@maxextratitle=\count353
+\c@maxextratitleyear=\count354
+\c@maxextraname=\count355
+\c@maxextradate=\count356
+\c@maxextraalpha=\count357
+\c@abbrvpenalty=\count358
+\c@highnamepenalty=\count359
+\c@lownamepenalty=\count360
+\c@maxparens=\count361
+\c@parenlevel=\count362
+\blx@tempcnta=\count363
+\blx@tempcntb=\count364
+\blx@tempcntc=\count365
+\blx@maxsection=\count366
+\blx@maxsegment@0=\count367
+\blx@notetype=\count368
+\blx@parenlevel@text=\count369
+\blx@parenlevel@foot=\count370
+\blx@sectionciteorder@0=\count371
+\blx@entrysetcounter=\count372
+\blx@biblioinstance=\count373
+\labelnumberwidth=\skip74
+\labelalphawidth=\skip75
+\biblabelsep=\skip76
+\bibitemsep=\skip77
+\bibnamesep=\skip78
+\bibinitsep=\skip79
+\bibparsep=\skip80
+\bibhang=\skip81
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count374
+\c@maxcomprange=\count375
+\c@mincompwidth=\count376
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count377
+\c@savedafterword=\count378
+\c@annotator=\count379
+\c@savedannotator=\count380
+\c@author=\count381
+\c@savedauthor=\count382
+\c@bookauthor=\count383
+\c@savedbookauthor=\count384
+\c@commentator=\count385
+\c@savedcommentator=\count386
+\c@editor=\count387
+\c@savededitor=\count388
+\c@editora=\count389
+\c@savededitora=\count390
+\c@editorb=\count391
+\c@savededitorb=\count392
+\c@editorc=\count393
+\c@savededitorc=\count394
+\c@foreword=\count395
+\c@savedforeword=\count396
+\c@holder=\count397
+\c@savedholder=\count398
+\c@introduction=\count399
+\c@savedintroduction=\count400
+\c@namea=\count401
+\c@savednamea=\count402
+\c@nameb=\count403
+\c@savednameb=\count404
+\c@namec=\count405
+\c@savednamec=\count406
+\c@translator=\count407
+\c@savedtranslator=\count408
+\c@shortauthor=\count409
+\c@savedshortauthor=\count410
+\c@shorteditor=\count411
+\c@savedshorteditor=\count412
+\c@labelname=\count413
+\c@savedlabelname=\count414
+\c@institution=\count415
+\c@savedinstitution=\count416
+\c@lista=\count417
+\c@savedlista=\count418
+\c@listb=\count419
+\c@savedlistb=\count420
+\c@listc=\count421
+\c@savedlistc=\count422
+\c@listd=\count423
+\c@savedlistd=\count424
+\c@liste=\count425
+\c@savedliste=\count426
+\c@listf=\count427
+\c@savedlistf=\count428
+\c@location=\count429
+\c@savedlocation=\count430
+\c@organization=\count431
+\c@savedorganization=\count432
+\c@origlocation=\count433
+\c@savedoriglocation=\count434
+\c@origpublisher=\count435
+\c@savedorigpublisher=\count436
+\c@publisher=\count437
+\c@savedpublisher=\count438
+\c@language=\count439
+\c@savedlanguage=\count440
+\c@origlanguage=\count441
+\c@savedoriglanguage=\count442
+\c@pageref=\count443
+\c@savedpageref=\count444
+\shorthandwidth=\skip82
+\shortjournalwidth=\skip83
+\shortserieswidth=\skip84
+\shorttitlewidth=\skip85
+\shortauthorwidth=\skip86
+\shorteditorwidth=\skip87
+\locallabelnumberwidth=\skip88
+\locallabelalphawidth=\skip89
+\localshorthandwidth=\skip90
+\localshortjournalwidth=\skip91
+\localshortserieswidth=\skip92
+\localshorttitlewidth=\skip93
+\localshortauthorwidth=\skip94
+\localshorteditorwidth=\skip95
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count445
+\c@textcitetotal=\count446
+\c@textcitemaxnames=\count447
+\c@biburlbigbreakpenalty=\count448
+\c@biburlbreakpenalty=\count449
+\c@biburlnumpenalty=\count450
+\c@biburlucpenalty=\count451
+\c@biburllcpenalty=\count452
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count453
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count454
+\c@bbx:relatedtotal=\count455
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count456
+\c@cbx@tempcntb=\count457
+\c@cbx@tempcntc=\count458
+\c@cbx@tempcntd=\count459
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+
+Package biblatex Warning: 'firstinits' option is deprecated.
+(biblatex)                Please use 'giveninits' instead.
+
+) (C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count460
+\rotFPtop=\skip96
+\rotFPbot=\skip97
+\rot@float@box=\box61
+\rot@mess@toks=\toks33
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/harveyballs\harveyballs.sty
+Package: harveyballs 2013/10/22 Harvey Balls for LaTeX by Sascha Roth, Technica
+l University Munich, sascha.roth@mytum.de
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen260
+\pgfutil@tempdimb=\dimen261
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box62
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen262
+\pgf@y=\dimen263
+\pgf@xa=\dimen264
+\pgf@ya=\dimen265
+\pgf@xb=\dimen266
+\pgf@yb=\dimen267
+\pgf@xc=\dimen268
+\pgf@yc=\dimen269
+\pgf@xd=\dimen270
+\pgf@yd=\dimen271
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count461
+\c@pgf@countb=\count462
+\c@pgf@countc=\count463
+\c@pgf@countd=\count464
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count465
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count466
+\pgfsyssoftpath@bigbuffer@items=\count467
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen272
+\pgfmath@count=\count468
+\pgfmath@box=\box63
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count469
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen273
+\pgf@picmaxx=\dimen274
+\pgf@picminy=\dimen275
+\pgf@picmaxy=\dimen276
+\pgf@pathminx=\dimen277
+\pgf@pathmaxx=\dimen278
+\pgf@pathminy=\dimen279
+\pgf@pathmaxy=\dimen280
+\pgf@xx=\dimen281
+\pgf@xy=\dimen282
+\pgf@yx=\dimen283
+\pgf@yy=\dimen284
+\pgf@zx=\dimen285
+\pgf@zy=\dimen286
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen287
+\pgf@path@lasty=\dimen288
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen289
+\pgf@shorten@start@additional=\dimen290
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count470
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen291
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen292
+\pgf@pt@y=\dimen293
+\pgf@pt@temp=\dimen294
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen295
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen296
+\pgf@sys@shading@range@num=\count471
+\pgf@shadingcount=\count472
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box67
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box68
+)
+(C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen297
+\pgf@nodesepend=\dimen298
+)
+(C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen299
+\pgffor@skip=\dimen300
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+))
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count473
+\pgfplotmarksize=\dimen301
+)
+\tikz@lastx=\dimen302
+\tikz@lasty=\dimen303
+\tikz@lastxsaved=\dimen304
+\tikz@lastysaved=\dimen305
+\tikz@lastmovetox=\dimen306
+\tikz@lastmovetoy=\dimen307
+\tikzleveldistance=\dimen308
+\tikzsiblingdistance=\dimen309
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count474
+\tikznumberofchildren=\count475
+\tikznumberofcurrentchild=\count476
+\tikz@fig@count=\count477
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count478
+\pgfmatrixcurrentcolumn=\count479
+\pgf@matrix@numberofcolumns=\count480
+)
+\tikz@expandcount=\count481
+
+(C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))))
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 123.
+
+1: chapter
+1: chapter
+\@indexfile=\write5
+\openout5 = `Thesis.idx'.
+
+Writing index file Thesis.idx
+
+Package array Warning: Redefining primitive column b on input line 234.
+
+\enitdp@checklist=\count482
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+(Thesis.aux)
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 292.
+LaTeX Font Info:    ... okay on input line 292.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count483
+\scratchdimen=\dimen310
+\scratchbox=\box73
+\nofMPsegments=\count484
+\nofMParguments=\count485
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count486
+\MPscratchDim=\dimen311
+\MPnumerator=\count487
+\makeMPintoPDFobject=\count488
+\everyMPtoPDFconversion=\toks47
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package hyperref Info: Link coloring ON on input line 292.
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count489
+)
+LaTeX Info: Redefining \ref on input line 292.
+LaTeX Info: Redefining \pageref on input line 292.
+LaTeX Info: Redefining \nameref on input line 292.
+ (Thesis.out) (Thesis.out)
+\@outlinefile=\write6
+\openout6 = `Thesis.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 292.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count490
+))
+\c@lstlisting=\count491
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hypcap package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.00314pt, 420.0pt, 106.50473pt)
+* v-part:(T,H,B)=(90.01874pt, 620.0pt, 135.0281pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=420.0pt
+* \textheight=620.0pt
+* \oddsidemargin=-1.26685pt
+* \evensidemargin=34.23474pt
+* \topmargin=-19.65126pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=40.0pt
+* \marginparwidth=128.03741pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package scrhack Info: undefining \float@addtolists on input line 292.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
+File: ngerman.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `Thesis-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Thesis.bbl' found.
+ (Thesis.bbl
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 55
+.
+
+(C:\Users\Vali\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 55.
+)
+Package biblatex Info: Reference section=0 on input line 292.
+Package biblatex Info: Reference segment=0 on input line 292.
+\bindekorrektur=\skip98
+\seitenanfang=\skip99
+\seitenbreite=\skip100
+<images/logo.pdf, id=7, 197.23688pt x 79.04532pt>
+File: images/logo.pdf Graphic file (type pdf)
+<use images/logo.pdf>
+Package pdftex.def Info: images/logo.pdf  used on input line 438.
+(pdftex.def)             Requested size: 113.81102pt x 45.6111pt.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 16.41594pt on input line 440.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 440.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 446.
+ [0
+
+{C:/Users/Vali/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images/logo.pd
+f>]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 487.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 23.63593pt on input line 487.
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 519
+.
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 519
+.
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+] [2
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 541.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 10.40245pt on input line 541.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 541.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 9.49997pt on input line 541.
+ [3
+
+
+] [4
+
+
+]
+(Thesis.toc [5
+
+
+])
+\tf@toc=\write7
+\openout7 = `Thesis.toc'.
+
+ [6] (chapters/chapter1.tex
+chapter 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 3.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.54997pt on input line 5.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+4.
+(C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \vbox (badness 4229) has occurred while \output is active []
+
+ [7
+
+
+
+
+]
+Underfull \hbox (badness 3271) in paragraph at lines 20--20
+  [][][]\T1/phv/m/n/9 Einen Über-blick über vie-le ver-schie-de-ne Zi-tier-wei-
+sen fin-den Sie in der [][]$http : / / amath . colorado . edu /
+ []
+
+[8]
+Package acronym Info: Label `acro:PDF' newly defined as it shall be overridden
+although it is yet undefined on input line 50.
+Package acronym Info: Label `acro:ISO' newly defined as it shall be overridden
+although it is yet undefined on input line 50.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 79.
+) (chapters/chapter2.tex [9] [10]
+chapter 2.
+Package acronym Info: Label `acro:ABK' newly defined as it shall be overridden
+although it is yet undefined on input line 22.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.54997pt on input line 42.
+
+Underfull \hbox (badness 10000) in alignment at lines 57--57
+[][][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13]) (chapters/chapter3.tex [14]
+chapter 3.
+<images/nasa_rover.jpg, id=635, 1027.84pt x 822.07124pt>
+File: images/nasa_rover.jpg Graphic file (type jpg)
+<use images/nasa_rover.jpg>
+Package pdftex.def Info: images/nasa_rover.jpg  used on input line 10.
+(pdftex.def)             Requested size: 170.71652pt x 136.53905pt.
+<images/modell_point_to_point.pdf, id=636, 307.58743pt x 184.85773pt>
+File: images/modell_point_to_point.pdf Graphic file (type pdf)
+<use images/modell_point_to_point.pdf>
+Package pdftex.def Info: images/modell_point_to_point.pdf  used on input line 1
+7.
+(pdftex.def)             Requested size: 170.71652pt x 102.60005pt.
+<images/ws-wsdl20-fehler.pdf, id=637, 689.57625pt x 446.66875pt>
+File: images/ws-wsdl20-fehler.pdf Graphic file (type pdf)
+<use images/ws-wsdl20-fehler.pdf>
+Package pdftex.def Info: images/ws-wsdl20-fehler.pdf  used on input line 20.
+(pdftex.def)             Requested size: 625.96062pt x 405.4673pt.
+
+Overfull \hbox (5.96062pt too wide) in paragraph at lines 20--21
+[][] 
+ []
+
+[15
+
+
+ <./images/nasa_rover.jpg> <./images/modell_point_to_point.pdf>] [16 <./images/
+ws-wsdl20-fehler.pdf>]
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 58.
+
+(sourcecode/Crypter.java
+consecutive:
+) [17
+
+]
+
+LaTeX Warning: Reference `F52' on page 18 undefined on input line 86.
+
+
+LaTeX Warning: Reference `kapitel3/iso25010' on page 18 undefined on input line
+ 88.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./images/iso25010.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<images/iso25010.pdf, id=866, 466.71364pt x 197.5882pt>
+File: images/iso25010.pdf Graphic file (type pdf)
+<use images/iso25010.pdf>
+Package pdftex.def Info: images/iso25010.pdf  used on input line 90.
+(pdftex.def)             Requested size: 398.33858pt x 168.64719pt.
+[18 <./images/iso25010.pdf>]) (chapters/chapter4.tex [19] [20
+
+
+]
+chapter 4.
+[21]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 7.59998pt on input line 21.
+ [22]
+Overfull \hbox (1.458pt too wide) in paragraph at lines 42--43
+[]\T1/phv/m/sl/10.95 Lebendigkeit\T1/phv/m/n/10.95 : Der Text der Ar-beit zeich
+-net sich durch ei-ne gu-te Wort-wahl, Sprach-
+ []
+
+[23] [24]
+Overfull \hbox (30.78812pt too wide) in paragraph at lines 99--100
+[]\T1/phv/m/sl/10.95 Korrektur\T1/phv/m/n/10.95 : Ha-ben Sie einen Drit-ten die
+ Ar-beit le-sen las-sen und al-le ge-fun-de-nen Rechtschreib-
+ []
+
+[25]) [26]
+chapter without number
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 10.40245pt on input line 569.
+[27
+
+
+
+
+] [28]
+chapter without number
+(acronyms.tex
+
+LaTeX Warning: Hyper reference `acro:ACM' on page 29 undefined on input line 9.
+
+
+
+LaTeX Warning: Hyper reference `acro:ACM' on page 29 undefined on input line 9.
+
+
+
+LaTeX Warning: Hyper reference `acro:IEEE' on page 29 undefined on input line 1
+1.
+
+
+LaTeX Warning: Hyper reference `acro:IEEE' on page 29 undefined on input line 1
+1.
+
+) [29
+
+
+] [30
+
+
+] (Thesis.lot)
+\tf@lot=\write8
+\openout8 = `Thesis.lot'.
+
+ [31
+
+
+] [32
+
+
+] (Thesis.lof)
+\tf@lof=\write9
+\openout9 = `Thesis.lof'.
+
+ [33
+
+
+] [34
+
+
+] (Thesis.lol)
+\tf@lol=\write10
+\openout10 = `Thesis.lol'.
+
+ [35
+
+
+]
+[36
+
+
+] (Thesis.ind [37
+
+
+
+
+
+
+]) (appendix.tex [38
+
+
+
+]
+chapter A.
+) [39] (Thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'Thesis.run.xml'.
+\openout1 = `Thesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 38827 strings out of 479334
+ 738850 string characters out of 2866963
+ 1774444 words of memory out of 3000000
+ 55406 multiletter control sequences out of 15000+200000
+ 466481 words of font info for 96 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 111i,20n,116p,10603b,2274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Vali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0
+900.pk> <C:\Users\Vali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1095.pk> <C:\Users\Vali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\tcrm1095.pk> <C:\Users\Vali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi600\ectt1095.pk>{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:
+\Users\Vali\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk
+><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/m
+sam10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX/
+fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/he
+lvetic/uhvro8a.pfb>
+Output written on Thesis.pdf (40 pages, 735980 bytes).
+PDF statistics:
+ 1380 PDF objects out of 1440 (max. 8388607)
+ 964 compressed objects within 10 object streams
+ 173 named destinations out of 1000 (max. 500000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
+

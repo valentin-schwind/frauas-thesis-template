@@ -1,0 +1,321 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Bass2003}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BL}{%
+         family={Bass},
+         familyi={B\bibinitperiod},
+         given={Len},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Clements},
+         familyi={C\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kazman},
+         familyi={K\bibinitperiod},
+         given={Rick},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Addison-Wesley}%
+    }
+    \keyw{Architecture}
+    \strng{namehash}{BLCPKR1}
+    \strng{fullhash}{BLCPKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{edition}{2nd editio}
+    \field{series}{SEI Series in Software Engineering}
+    \field{title}{{Software Architecture in Practice}}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Forssman2002}{book}{}
+    \name{author}{2}{}{%
+      {{hash=FF}{%
+         family={Forssman},
+         familyi={F\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=dJR}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Jong},
+         familyi={J\bibinitperiod},
+         given={Ralf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Verlag Hermann Schmidt}%
+    }
+    \keyw{Writing}
+    \strng{namehash}{FFdJR1}
+    \strng{fullhash}{FFdJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Detailtypografie}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Gao2017}{online}{}
+    \name{author}{5}{}{%
+      {{hash=GL}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Liangcai},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YX}{%
+         family={Yi},
+         familyi={Y\bibinitperiod},
+         given={Xiaohan},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hao},
+         familyi={H\bibinitperiod},
+         given={Leipeng},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=JZ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Zhuoren},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=TZ}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Zhi},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GL+1}
+    \strng{fullhash}{GLYXHLJZTZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{{ICDAR 2017 POD Competition: Evaluation}}
+    \verb{url}
+    \verb http://www.icst.pku.edu.cn/cpdp/ICDAR2017_PODCompetition/evaluation.h
+    \verb tml
+    \endverb
+    \field{year}{2017}
+    \field{urlday}{30}
+    \field{urlmonth}{05}
+    \field{urlyear}{2017}
+  \endentry
+
+  \entry{Wikipedia_HarveyBalls}{online}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={{Harvey Balls}},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Harvey Balls -- Wikipedia}
+    \verb{url}
+    \verb https://de.wikipedia.org/w/index.php?title=Harvey_Balls&oldid=1165173
+    \verb 96
+    \endverb
+    \field{month}{04}
+    \field{year}{2013}
+    \field{urlday}{07}
+    \field{urlmonth}{02}
+    \field{urlyear}{2018}
+  \endentry
+
+  \entry{ISO25010}{report}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={{International Organization for Standardization}},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{{Systems and software engineering -- Systems and software
+  Quality Requirements -- and Evaluation (SQuaRE) -- System and software
+  quality models}}
+    \field{volume}{2011}
+    \list{location}{1}{%
+      {Case postale 56, CH-1211 Geneva 20}%
+    }
+    \list{institution}{1}{%
+      {International Organization for Standardization}%
+    }
+    \field{type}{Standard}
+    \field{month}{03}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Kornmeier2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Kornmeier},
+         familyi={K\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {UTB}%
+    }
+    \keyw{Writing}
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{edition}{4. Auflage}
+    \field{title}{Wissenschaftlich schreiben leicht gemacht}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Kramer2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KW}{%
+         family={Kr{\"a}mer},
+         familyi={K\bibinitperiod},
+         given={Walter},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Campus Verlag}%
+    }
+    \keyw{Writing}
+    \strng{namehash}{KW1}
+    \strng{fullhash}{KW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{edition}{3. Auflage}
+    \field{title}{Wie schreibe ich eine Seminar- oder Examensarbeit?}
+    \field{month}{09}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Volere}{online}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={{Volere Template}},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{Snowcards -- Volere}
+    \verb{url}
+    \verb http://www.volere.co.uk
+    \endverb
+    \field{month}{01}
+    \field{year}{2018}
+    \field{urlday}{31}
+    \field{urlmonth}{01}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{Weber2006}{online}{}
+    \name{author}{1}{}{%
+      {{hash=WS}{%
+         family={Weber},
+         familyi={W\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{Writing}
+    \strng{namehash}{WS1}
+    \strng{fullhash}{WS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Wissenschaft als Web-Sampling}
+    \verb{url}
+    \verb http://www.heise.de/tp/druck/mb/artikel/24/24221/1.html
+    \endverb
+    \field{journaltitle}{Telepolis}
+    \field{month}{12}
+    \field{year}{2006}
+    \field{urlday}{27}
+    \field{urlmonth}{10}
+    \field{urlyear}{2011}
+  \endentry
+
+  \entry{Willberg1999}{book}{}
+    \name{author}{2}{}{%
+      {{hash=WHP}{%
+         family={Willberg},
+         familyi={W\bibinitperiod},
+         given={Hans\bibnamedelima Peter},
+         giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=FF}{%
+         family={Forssmann},
+         familyi={F\bibinitperiod},
+         given={Friedrich},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Verlag Hermann Schmidt}%
+    }
+    \keyw{Writing}
+    \strng{namehash}{WHPFF1}
+    \strng{fullhash}{WHPFF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Erste Hilfe in Typographie}
+    \field{year}{1999}
+  \endentry
+\enddatalist
+\endinput
